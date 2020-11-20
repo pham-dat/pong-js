@@ -1,0 +1,15 @@
+#canvas {
+    background: black;
+}
+
+#scoreboard{
+    display: flex;
+    width: 800px;
+    font-family: monospace;
+    justify-content: space-between;
+    font-size: 2rem;
+}
+
+#scoreboard .score {
+text-align: center;
+}
